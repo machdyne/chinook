@@ -20,7 +20,7 @@ Build with `make -f Makefile.chinook`.
 
 ## Power
 
-Chinook can by powered through the barrel jack connector (or the PWRJACK pin) or the USB-C connector.
+Chinook can be powered through the barrel jack connector (or the PWRJACK pin) or the USB-C connector.
 
 ## Pinouts
 
