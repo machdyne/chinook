@@ -2,6 +2,8 @@
 
 Chinook is a metacomputer designed by Lone Dynamics Corporation.
 
+![Chinook](https://github.com/machdyne/chinook/blob/aa77e6321abd63277f30fb7f759388b9844e7b1b/chinook.png)
+
 This repo will contain schematics, PCB layouts, pinouts, a 3D-printable case and documentation.
 
 Find more information on the [Chinook product page](https://machdyne.com/product/chinook-computer/).
