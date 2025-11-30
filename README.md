@@ -10,11 +10,11 @@ Find more information on the [Chinook product page](https://machdyne.com/product
 
 ## Bootloader
 
-Chinook uses the [rv003usb](https://github.com/cnlohr/rv003usb) bootloader. If overwritten, it can be restored with the SWIO pin and an external programmer.
+Chinook uses the [rv003usb](https://github.com/cnlohr/rv003usb) bootloader to support firmware updates over the USB-C connector. If overwritten, it can be restored with the SWIO pin and an external programmer.
 
 ## Linux
 
-Chinook uses a slightly modified [fork](https://github.com/machdyne/linux-ch32v003) of [linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) to support firmware updates over the USB-C connector.
+Chinook uses a slightly modified [fork](https://github.com/machdyne/linux-ch32v003) of [linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003).
 
 Build with `make -f Makefile.chinook`.
 
