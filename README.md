@@ -16,6 +16,8 @@ Chinook uses the [rv003usb](https://github.com/cnlohr/rv003usb) bootloader. If o
 
 Chinook uses a slightly modified [fork](https://github.com/machdyne/linux-ch32v003) of [linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) to support firmware updates over the USB-C connector.
 
+Build with `make -f Makefile.chinook`.
+
 ## Power
 
 Chinook can by powered through the barrel jack connector (or the PWRJACK pin) or the USB-C connector.
